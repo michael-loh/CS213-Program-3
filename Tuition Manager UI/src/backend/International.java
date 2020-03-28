@@ -1,10 +1,11 @@
-package backend;
 /**
  * This class serves as an international student representation of the Student class.
  * This class implements the tuitionDue() method following the guidelines of an international student.
  * It also overrides the toString() method by appending on fields from this subclass.
  * @author Michael Loh
  */
+package backend;
+
 public class International extends Student {
 
 	private final int TUITION = 945;

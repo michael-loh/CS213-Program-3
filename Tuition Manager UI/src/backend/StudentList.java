@@ -1,4 +1,3 @@
-package backend;
 /**
  * This class is used to store all student types in a list.
  * It has operations to add and remove students from this list.
@@ -7,6 +6,7 @@ package backend;
  * @author micha
  *
  */
+package backend;
 
 public class StudentList {
 	

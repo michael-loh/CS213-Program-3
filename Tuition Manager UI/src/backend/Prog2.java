@@ -1,11 +1,11 @@
-package backend;
-
 /**
  * This class is the driver class for the project.
  * This main method is called when running the project.
  * @author Michael Loh
  *
  */
+package backend;
+
 public class Prog2 {
 
 	/**

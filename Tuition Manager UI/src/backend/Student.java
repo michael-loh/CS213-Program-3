@@ -1,5 +1,3 @@
-package backend;
-
 /**
  * 	This class serves as an abstract class for other types of Student classes to use
  * 	This class contains a constructor, toString(), and compareTo() that other subclasses will be using
@@ -7,6 +5,7 @@ package backend;
  * 	contains constants that will also be used in the subclasses.
  * 	@author Michael Loh
  */
+package backend;
 
 public abstract class Student implements Comparable {
 	

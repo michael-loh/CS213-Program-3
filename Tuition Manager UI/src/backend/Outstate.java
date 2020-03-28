@@ -1,4 +1,3 @@
-package backend;
 /**
  * This class serves as an out of state student representation of the Student class.
  * This class implements the tuitionDue() method following the guidelines of an out of state student
@@ -6,6 +5,8 @@ package backend;
  * @author micha
  *
  */
+package backend;
+
 public class Outstate extends Student{
 
 	private final int TUITION = 756;

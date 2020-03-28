@@ -1,8 +1,9 @@
-package backend;
 /**
  * The TuitionManager class is the interface class which processes user commands.
  * @author Varun Vasudevan
  */
+package backend;
+
 import java.util.Scanner;
 
 public class TuitionManager {

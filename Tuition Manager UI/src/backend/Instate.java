@@ -1,9 +1,10 @@
-package backend;
 /**
  * This class serves as an instate student representation of the Student class.
  * This class implememnts the tuitionDue() method for an instate student, and it overrides the toString() method.
  * @author "Michael Loh"
  */
+package backend;
+
 public class Instate extends Student{
 	
 	private final int TUITION = 433;

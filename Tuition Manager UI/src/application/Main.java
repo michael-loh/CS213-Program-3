@@ -1,6 +1,11 @@
+/**
+ * This class loads in the fxml document and starts running the UI for this program.
+ * This program uses an Anchor Pane as the root for the UI.
+ * @author Michael Loh
+ * @author Varun Vasudevan
+ */
 package application;
 	
-import backend.TuitionManager;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
@@ -9,6 +14,10 @@ import javafx.fxml.FXMLLoader;
 
 
 public class Main extends Application {
+	
+	/**
+	 * This method loads and displays the fxml file.
+	 */
 	@Override
 	public void start(Stage primaryStage) {
 		try {
@@ -22,6 +31,11 @@ public class Main extends Application {
 		}
 	}
 	
+	/**
+	 * This method is the main method.
+	 * It starts the program by calling launch().
+	 * @param args no command line args.
+	 */
 	public static void main(String[] args) {
 		launch(args);
 	}
