@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"backend","l":"Instate"},{"p":"backend","l":"International"},{"p":"application","l":"Main"},{"p":"backend","l":"Outstate"},{"p":"backend","l":"Prog2"},{"p":"backend","l":"Student"},{"p":"backend","l":"StudentList"},{"p":"backend","l":"TuitionManager"},{"p":"application","l":"UIController"}]
